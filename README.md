@@ -49,15 +49,15 @@ The only repository that I still maintain is [DAWRPC](https://github.com/lmharpa
 
 ### GitHub Stats
 
-![lmharpae's Stats](https://github-readme-stats.vercel.app/api?username=lmharpae&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![lmharpae's Stats](https://github-readme-stats.vercel.app/api?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Total Contributions
 
-![lmharpae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmharpae&theme=vue-dark&hide_border=true)
+![lmharpae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serena1432&theme=vue-dark&hide_border=true)
 
 ### My Most Used Languages
 
-![lmharpae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmharpae&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![lmharpae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Friends
 

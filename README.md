@@ -69,8 +69,8 @@ I consider friendship as the most important thing, so feel free to talk to me or
 
 I'm mainly online on Facebook or Discord, so you'd better message me on those two platforms!
 
-**Discord:** [Serena1432](https://discord.com/users/693107293516070944)
-**Facebook:** [Serena1432](https://fb.me/Serena1432)
-**YouTube:** [Serena1432](https://youtube.com/@Serena1432)
-**Website:** [s1432.org](https://s1432.org)
-**Email:** [admin@s1432.org](mailto:admin@s1432.org)
+* **Discord:** [Serena1432](https://discord.com/users/693107293516070944)
+* **Facebook:** [Serena1432](https://fb.me/Serena1432)
+* **YouTube:** [Serena1432](https://youtube.com/@Serena1432)
+* **Website:** [s1432.org](https://s1432.org)
+* **Email:** [admin@s1432.org](mailto:admin@s1432.org)

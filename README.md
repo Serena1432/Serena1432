@@ -1,6 +1,6 @@
 # Serena1432
 
-![harpae my beloved](https://diamyth.s1432.org/web_assets/img/banner.webp)
+![Serena1432](https://diamyth.s1432.org/web_assets/img/banner.webp)
 
 ## About Me
 
@@ -37,7 +37,7 @@ I will work on some commissions to earn money outside GitHub!
 
 I originally aimed GitHub as one of my social networks just for fun and I will share some codes/applications/tools that I had fun with, so everything in this profile is free and non-profitable.
 
-**I'm also working mainly on Nobihaza community, so my YouTube channel, Facebook page and my website are mainly related to Nobihaza itself. If you don't know what Nobihaza is, consider [checking here](https://rpgm.fandom.com/wiki/Doraemon:_Nobita%27s_Resident_Evil).
+**I'm also working mainly on Nobihaza community, so my YouTube channel, Facebook page and my website are mainly related to Nobihaza itself. If you don't know what Nobihaza is, consider [checking here](https://rpgm.fandom.com/wiki/Doraemon:_Nobita%27s_Resident_Evil).**
 
 ## Why almost all of my repositories are ARCHIVED?
 

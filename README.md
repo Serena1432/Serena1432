@@ -6,7 +6,8 @@
 
 I'm an amateur programmer which focuses on back-end developing (especially Node.JS), because I'm bad at designing things.
 
-* **Real Name:** `(redacted)`
+* **Real Name:** ~~Tra Phuong Nam~~ Tora Phan Nam<br>excuse me what the actual fck chatgpt<br>![image](https://github.com/user-attachments/assets/212fe70e-7632-4bd7-b8c5-fce3b32b2082)
+
 * **DoB:** February 20, 2005 (19 years old)
 
 ## My Favorites

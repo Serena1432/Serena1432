@@ -44,21 +44,21 @@ I originally aimed GitHub as one of my social networks just for fun and I will s
 
 Because of a simple reason: **I can't maintain them anymore**. I haven't used GitHub for over a year for several reasons so I also don't have time to maintain any tools that I posted in this profile.
 
-The only repository that I still maintain is [DAWRPC](https://github.com/lmharpae/DAWRPC), because that repository is my most popular one on GitHub.
+The only repository that I still maintain is [DAWRPC](https://github.com/Serena1432/DAWRPC), because that repository is my most popular one on GitHub.
 
 ## Statistics
 
 ### GitHub Stats
 
-![lmharpae's Stats](https://github-readme-stats.vercel.app/api?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Serena1432's Stats](https://github-readme-stats.vercel.app/api?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Total Contributions
 
-![lmharpae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serena1432&theme=vue-dark&hide_border=true)
+![Serena1432's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serena1432&theme=vue-dark&hide_border=true)
 
 ### My Most Used Languages
 
-![lmharpae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Serena1432's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Friends
 

@@ -1,77 +1,113 @@
-# Serena1432
-
 ![Serena1432](https://diamyth.s1432.org/web_assets/img/banner.webp)
 
-## About Me
+<p align="center"><sub>Hi there, welcome to my pinned post! Oops I forgot this is GitHub, not Facebook.<br>Anyways, this page is also pinned at the top of my profile so that still counts, right?</sub></p>
 
-I'm an amateur programmer which focuses on back-end developing (especially Node.JS), because I'm bad at designing things.
+-----
 
-* **Real Name:** ~~Tra Phuong Nam~~ Tora Phan Nam<br>excuse me what the actual fck chatgpt<br>![image](https://github.com/user-attachments/assets/212fe70e-7632-4bd7-b8c5-fce3b32b2082)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=32d8ce&text=About%20Me&fontSize=50&fontColor=ffffff" width="550px" />
 
-* **DoB:** February 20, 2005 (19 years old)
+<img src="https://github-readme-stats.vercel.app/api?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400px" align="right" />
 
-## My Favorites
+**Real Name**
 
-### Programming Languages
+TPN. Tora Phan Nam is just a random name given by ChatGPT based on my real name.
 
-<img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+**Date of Birth**
 
-### Markup Languages
+February 20, 2005
 
-<img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
+**Occupation**
 
-### Frameworks
+Back-end & Game Developer with almost 10 years of experience. It's a long journey but I'm still improving over time, and it can be proved by my coding skills over all of my GitHub repositories since creation.
 
-<img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodewebkit/nodewebkit-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" />
+**Languages**
 
-### Databases
+**Vietnamese** (Native) / **English** (Intermediate)
 
-<img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
+**Personality**
 
-### Other Softwares
+INFP-T 4w5. I'm pretty much introverted so I don't want to advertise or flex about myself. I just do things if anyone knows about me and actively contact me.
 
-<img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" />
+**Experienced At**
 
-## Plans
+JavaScript (both Web and Node.JS), C# (.NET) and PHP (Vanilla). I prefer not to use any frameworks.
 
-I will work on some commissions to earn money outside GitHub!
+**Familar Operating Systems**
 
-I originally aimed GitHub as one of my social networks just for fun and I will share some codes/applications/tools that I had fun with, so everything in this profile is free and non-profitable.
+I use all of the major ones: Windows, macOS, Linux (Ubuntu/Arch Linux), Android and iOS!
 
-**I'm also working mainly on Nobihaza community, so my YouTube channel, Facebook page and my website are mainly related to Nobihaza itself. If you don't know what Nobihaza is, consider [checking here](https://rpgm.fandom.com/wiki/Doraemon:_Nobita%27s_Resident_Evil).**
+**Communities**
 
-## Why almost all of my repositories are ARCHIVED?
+I'm currently one of the admins in the [Vietnamese Nobihaza Community](https://www.facebook.com/groups/nobihazavietnam). This is currently the only community that I join because of my introverted personality, and I'm not willing to join any more communities in the future.
 
-Because of a simple reason: **I can't maintain them anymore**. I haven't used GitHub for over a year for several reasons so I also don't have time to maintain any tools that I posted in this profile.
+**Organizations**
 
-The only repository that I still maintain is [DAWRPC](https://github.com/Serena1432/DAWRPC), because that repository is my most popular one on GitHub.
+* [**The Firefly Project**](https://github.com/The-Firefly-Project) (Leader)
+* [**Manulkett**](https://discord.gg/vky8vxqZNN) (Lead Programmer)
 
-## Statistics
+<br>
 
-### GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=32d8ce&text=My%20Projects&fontSize=50&fontColor=ffffff" width="550px" />
 
-![Serena1432's Stats](https://github-readme-stats.vercel.app/api?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400px" align="right" />
 
-### Total Contributions
+Including ones in GitHub and outside GitHub!
 
-![Serena1432's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serena1432&theme=vue-dark&hide_border=true)
+### [Nobihaza Vietnam Community Collection](https://github.com/Serena1432/NobihazaVietnamCollection)
 
-### My Most Used Languages
+A completely non-profit website that contains (almost) all Nobihaza games, with functional game upload/download/searching, commenting and reviewing functions. It also has a public API that will have a proper documentation in the future, to be able to use for chatbots and applications.
 
-![Serena1432's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serena1432&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### [Doraemon: Nobita's Resident Evil 2 MV Remake (Vietnamese Translation)](https://nobi2.s1432.org)
 
-## Friends
+The Vietnamese translation of Nobihaza 2's RPG Maker MV version. Besides from translating, I also add a new UI and various features to the game, such as cross-platform support, sharing save files across devices and between players without touching the game files, etc.
 
-### All of my followers are my friends, and I respect all of them.
+### Nobita no Biohazard THE WALKING DEAD (MV Remake)
 
-I consider friendship as the most important thing, so feel free to talk to me or request me to do anything that doesn't go beyond my ability!
+A remake version using RPG Maker MV of Nobihaza The Walking Dead, a game developed by Duc Thuan Vu.<br>This project is currently at the beginning state.
 
-## Social Networks
+### Witched Tale
 
-I'm mainly online on Facebook or Discord, so you'd better message me on those two platforms!
+A game made by Manulkett using RPG Maker MV, which I'm currently the lead programmer. Due to its special nature, I won't public its information here; you can find it yourself on Google.<br>This project is my main for-profit one that will help me in some financial situations.
 
-* **Discord:** [Serena1432](https://discord.com/users/693107293516070944)
-* **Facebook:** [Serena1432](https://fb.me/Serena1432)
-* **YouTube:** [Serena1432](https://youtube.com/@Serena1432)
-* **Website:** [s1432.org](https://s1432.org)
-* **Email:** [admin@s1432.org](mailto:admin@s1432.org)
+### [DAWRPC](https://github.com/Serena1432/DAWRPC)
+
+A small application displaying a Discord Rich Presence for the Digital Audio Workstation (DAW) that you're using. This project is currently at the semi-active state, which I only release an update when a new DAW is out.
+
+### [The Serena1432 website](https://s1432.org)
+
+Finally I can made a website for myself! This is also my first one without using any templates, and it helped me practicing front-end developing so much, even though it wasn't very good.
+
+Yes, those are all projects that are still active. All of my other projects are archived because of the lack of maintaining and my personal issues, you can see more at [my website](https://s1432.org/projects) and [the Repositories tab](https://github.com/Serena1432/repositories).
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=32d8ce&text=GitHub%20Activities&fontSize=50&fontColor=ffffff" width="550px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Serena1432&theme=vue-dark&hide_border=true" width="400px" align="right" />
+
+Can I beat my 11-day streak record in 2020?
+
+That was the moment when I first used GitHub and had such passion for coding that I made over 1.000 contributions just in that year. Too bad that after many things happened, I lost almost all interest in regular coding and I almost left GitHub and even coding. I had just slowly been getting that passion back recently.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=32d8ce&text=Social%20Networks&fontSize=50&fontColor=ffffff" width="550px" />
+
+<a href="https://discord.com/users/693107293516070944"><img src="https://lanyard.cnrad.dev/api/693107293516070944" width="400px" align="right" /></a>
+
+**Facebook:** [Serena1432](https://www.facebook.com/Serena1432)<br>
+**YouTube:** [Serena1432](https://www.youtube.com/@s1432_nbhz)<br>
+**Discord:** [@s1432_nbhz](https://discord.com/users/693107293516070944)<br>
+**Twitter:** [@s1432_nbhz](https://x.com/s1432_nbhz)<br>
+**Zalo:** [Skirk](https://zaloapp.com/qr/p/1rjy4k1eezecu)<br>
+**Email:** [admin@s1432.org](mailto:admin@s1432.org)<br>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=32d8ce&text=Stacks&fontSize=50&fontColor=ffffff" width="550px" />
+
+<img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodewebkit/nodewebkit-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" /> <img style="width: auto; height: 48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" /> <img style="width: auto; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  <img style="width: auto; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img style="width: auto; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" /> <img style="width: auto; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> <img style="width: auto; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /> <img style="width: auto; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" /> <img style="width: auto; height: 48px" src="" />
+
+-----
+
+<sub>Will I be able to continue living? Everything now is so bland...</sub>

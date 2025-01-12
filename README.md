@@ -97,6 +97,7 @@ That was the moment when I first used GitHub and had such passion for coding tha
 
 **Facebook:** [Serena1432](https://www.facebook.com/Serena1432)<br>
 **YouTube:** [Serena1432](https://www.youtube.com/@s1432_nbhz)<br>
+**GitLab:** [Yunli](https://www.gitlab.com/m_yunli)<br>
 **Discord:** [@s1432_nbhz](https://discord.com/users/693107293516070944)<br>
 **Twitter:** [@s1432_nbhz](https://x.com/s1432_nbhz)<br>
 **Zalo:** [Skirk](https://zaloapp.com/qr/p/1rjy4k1eezecu)<br>

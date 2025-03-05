@@ -83,7 +83,7 @@ Yes, those are all projects that are still active. All of my other projects are 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=32d8ce&text=GitHub%20Activities&fontSize=50&fontColor=ffffff" width="550px" />
 
-<img src="https://streak-stats.demolab.com/?user=Serena1432&theme=vue-dark&hide_border=true" width="400px" align="right" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Serena1432&theme=vue-dark&hide_border=true" width="400px" align="right" />
 
 Can I beat my 11-day streak record in 2020?
 

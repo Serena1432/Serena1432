@@ -85,7 +85,7 @@ Yes, those are all projects that are still active. All of my other projects are 
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Serena1432&theme=vue-dark&hide_border=true" width="400px" align="right" />
 
-Can I beat my 11-day streak record in 2020?
+I've beaten my streak record in 2020 (11-day streak, from 2020/3/26 - 2020/4/5)!
 
 That was the moment when I first used GitHub and had such passion for coding that I made over 1.000 contributions just in that year. Too bad that after many things happened, I lost almost all interest in regular coding and I almost left GitHub and even coding. I had just slowly been getting that passion back recently.
 
